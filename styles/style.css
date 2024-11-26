@@ -215,16 +215,16 @@ body {
     border: 1px solid #000000;
     border-top: 0;
     padding: 20px 0;
-    background-image: url(Images/decorative-2.svg), 
-                    url(Images/decorative-1.svg), 
-                    url(Images/decorative-1.svg),
-                    url(Images/decorative-2.svg);
+    background-image: url(../Images/decorative-2.svg), 
+                    url(../Images/decorative-1.svg), 
+                    url(../Images/decorative-1.svg),
+                    url(../Images/decorative-2.svg);
     background-repeat: no-repeat;
     background-position: 21px 20px, 437px 20px, 902px 20px, 1318px 20px;
 }
 
 .main__products-item {
-    background-image: url(Images/background_figure.svg);
+    background-image: url(../Images/background_figure.svg);
     height: 658px;
     width: 436px;
     display: flex;
@@ -288,7 +288,7 @@ body {
 
 .main__bottom-text {
     border-left: 1px solid #000000;
-    background-image: url(Images/picture_star.svg);
+    background-image: url(../Images/picture_star.svg);
     grid-row-start: 1;
     grid-row-end: 3;
     display: flex;
