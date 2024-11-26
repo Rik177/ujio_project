@@ -203,7 +203,7 @@ body {
 
 .main__title::before {
     content: "";
-    background-image: url(Images/scorpio.svg);
+    background-image: url(../Images/scorpio.svg);
     width: 225px;
     height: 156px;
 }
